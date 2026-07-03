@@ -43,5 +43,3 @@ if st.button("✨ Generate Scannable QR Code"):
                 file_name="campus_qr_code.png",
                 mime="image/png"
             )
-message.txt
-'message.txt' has been moved from My Drive to Saved from Chrome
